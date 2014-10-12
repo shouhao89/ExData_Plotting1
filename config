@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	ignorecase = true
+	precomposeunicode = true
+[remote "origin"]
+	url = https://github.com/shouhao89/ExData_Plotting1.git
+	fetch = +refs/*:refs/*
+	mirror = true
